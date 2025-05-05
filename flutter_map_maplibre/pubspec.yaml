@@ -16,7 +16,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_map: ^8.0.0
+  flutter_map: ^8.1.1
   latlong2: ^0.9.1
   maplibre: ^0.2.1
 
